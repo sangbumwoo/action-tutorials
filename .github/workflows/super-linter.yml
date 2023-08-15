@@ -1,6 +1,6 @@
-name: CI
+name: github checkout
 
-on:[push]
+on: [push]
 
 jobs:
   build:
